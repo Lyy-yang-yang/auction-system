@@ -1,0 +1,22 @@
+{
+  "home": "首页",
+  "login": "登录",
+  "register": "注册",
+  "logout": "退出",
+  "currentBid": "当前最高价",
+  "bidNow": "出价",
+  "placeBid": "提交出价",
+  "outbid": "您被超越了",
+  "auctionEnd": "竞价结束",
+  "minIncrement": "最低加价",
+  "remainingTime": "剩余时间",
+  "sold": "已售",
+  "available": "可选",
+  "reserved": "已选",
+  "selectNumber": "选号",
+  "confirmBid": "确认出价",
+  "startingPrice": "起拍价",
+  "totalStock": "总库存",
+  "availableStock": "可用库存",
+  "hotAuctions": "热门拍卖"
+}

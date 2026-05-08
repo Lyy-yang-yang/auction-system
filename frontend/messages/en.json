@@ -1,0 +1,22 @@
+{
+  "home": "Home",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "currentBid": "Current Bid",
+  "bidNow": "Bid Now",
+  "placeBid": "Place Bid",
+  "outbid": "You've been outbid",
+  "auctionEnd": "Auction Ended",
+  "minIncrement": "Min Increment",
+  "remainingTime": "Remaining Time",
+  "sold": "Sold",
+  "available": "Available",
+  "reserved": "Reserved",
+  "selectNumber": "Select Number",
+  "confirmBid": "Confirm Bid",
+  "startingPrice": "Starting Price",
+  "totalStock": "Total Stock",
+  "availableStock": "Available Stock",
+  "hotAuctions": "Hot Auctions"
+}
