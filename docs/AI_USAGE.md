@@ -8,13 +8,13 @@ AI 使用说明
 
 一、各工具的实际用途
 
-DeepSeek（网页 / 对话）
+DeepSeek（Cherry Studio 客户端 / deepseek-v4）
 
 
 
 
 
-这是我最依赖的协作对象。大部分核心问题都先在对话里讨论清楚，再动手写代码。
+这是我最依赖的协作对象。大部分核心问题都先在 Cherry Studio 里跟 DeepSeek 讨论清楚，再动手写代码。
 
 
 
