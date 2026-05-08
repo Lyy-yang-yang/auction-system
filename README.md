@@ -150,15 +150,9 @@ auction-system/
 
 
 
-文档索引
+\- \[AI 使用说明](./docs/AI\_USAGE.md)
 
+\- \[数据库设计](./docs/DATABASE.md)
 
-
-
-
-AI 使用说明
-
-数据库设计
-
-API 接口文档
+\- \[接口文档](./docs/API.md)
 
